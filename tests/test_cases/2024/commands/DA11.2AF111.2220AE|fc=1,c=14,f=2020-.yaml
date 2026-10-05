@@ -1,0 +1,11 @@
+command_id: DA11.2AF111.2220AE|fc=1,c=14,f=2020-
+test_cases:
+- expected_values:
+    SIERRA2500_FUEL_INJ_CYL_3: 0
+  response: 142AF111056220AE0000
+- expected_values:
+    SIERRA2500_FUEL_INJ_CYL_3: 0.2302
+  response: 142AF111056220AE08FE
+- expected_values:
+    SIERRA2500_FUEL_INJ_CYL_3: 0.3078
+  response: 142AF111056220AE0C06

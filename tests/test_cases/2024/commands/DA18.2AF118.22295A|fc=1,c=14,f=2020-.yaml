@@ -1,0 +1,8 @@
+command_id: DA18.2AF118.22295A|fc=1,c=14,f=2020-
+test_cases:
+- expected_values:
+    SIERRA2500_ATF_T_FILTERED: 15
+  response: 142AF1180462295A37
+- expected_values:
+    SIERRA2500_ATF_T_FILTERED: 81
+  response: 142AF1180462295A79

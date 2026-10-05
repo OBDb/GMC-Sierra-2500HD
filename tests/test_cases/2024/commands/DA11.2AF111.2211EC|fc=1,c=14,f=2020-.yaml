@@ -1,0 +1,8 @@
+command_id: DA11.2AF111.2211EC|fc=1,c=14,f=2020-
+test_cases:
+- expected_values:
+    SIERRA2500_MIS_CURRENT_7_DA11: 0
+  response: 142AF111046211EC00
+- expected_values:
+    SIERRA2500_MIS_CURRENT_7_DA11: 0.39216
+  response: 142AF111046211EC01

@@ -1,0 +1,20 @@
+command_id: DA1A.2AF11A.22448F|fc=1,c=14,f=2020-
+test_cases:
+- expected_values:
+    SIERRA2500_ODO: 52824.85938
+  response: 142AF11A0762448F00339637
+- expected_values:
+    SIERRA2500_ODO: 53043.98438
+  response: 142AF11A0762448F0033CCFF
+- expected_values:
+    SIERRA2500_ODO: 53246.4375
+  response: 142AF11A0762448F0033FF9C
+- expected_values:
+    SIERRA2500_ODO: 53249.29688
+  response: 142AF11A0762448F00340053
+- expected_values:
+    SIERRA2500_ODO: 53308
+  response: 142AF11A0762448F00340F00
+- expected_values:
+    SIERRA2500_ODO: 4194303.98438
+  response: 142AF11A0762448F0FFFFFFF

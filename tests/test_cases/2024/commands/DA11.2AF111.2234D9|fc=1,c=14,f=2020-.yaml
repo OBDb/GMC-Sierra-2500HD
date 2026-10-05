@@ -1,0 +1,11 @@
+command_id: DA11.2AF111.2234D9|fc=1,c=14,f=2020-
+test_cases:
+- expected_values:
+    SIERRA2500_DPF_CORRECTED_PRES: 0
+  response: 142AF111056234D90000
+- expected_values:
+    SIERRA2500_DPF_CORRECTED_PRES: 2.55
+  response: 142AF111056234D900FF
+- expected_values:
+    SIERRA2500_DPF_CORRECTED_PRES: 15.91
+  response: 142AF111056234D90637

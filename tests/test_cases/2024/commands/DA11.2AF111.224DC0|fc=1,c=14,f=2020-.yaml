@@ -1,0 +1,8 @@
+command_id: DA11.2AF111.224DC0|fc=1,c=14,f=2020-
+test_cases:
+- expected_values:
+    SIERRA2500_ENG_OIL_LIFE: 0
+  response: 142AF11104624DC000
+- expected_values:
+    SIERRA2500_ENG_OIL_LIFE: 99.21569
+  response: 142AF11104624DC0FD
