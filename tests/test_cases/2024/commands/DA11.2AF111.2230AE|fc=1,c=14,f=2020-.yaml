@@ -1,8 +1,8 @@
 command_id: DA11.2AF111.2230AE|fc=1,c=14,f=2020-
 test_cases:
 - expected_values:
-    SIERRA2500_CHG_AIR_COOLER_T_2: 10
-  response: 142AF111046230AE32
+    SIERRA2500_CHG_AIR_COOLER_T_2: 6
+  response: 142AF111046230AE2E
 - expected_values:
     SIERRA2500_CHG_AIR_COOLER_T_2: 54
   response: 142AF111046230AE5E

@@ -4,8 +4,8 @@ test_cases:
     SIERRA2500_LAT_G: 0
   response: 142AF12805624C2F0000
 - expected_values:
-    SIERRA2500_LAT_G: -0.23573
-  response: 142AF12805624C2FFF6C
+    SIERRA2500_LAT_G: -0.25485
+  response: 142AF12805624C2FFF60
 - expected_values:
     SIERRA2500_LAT_G: -0.00637
   response: 142AF12805624C2FFFFC
