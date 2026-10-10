@@ -1,0 +1,14 @@
+command_id: DA11.2AF111.2230AB|fc=1,c=14,f=2020-
+test_cases:
+- expected_values:
+    SIERRA2500_DPF_EGT_5: 9.8
+  response: 142AF111056230AB01F2
+- expected_values:
+    SIERRA2500_DPF_EGT_5: 36.8
+  response: 142AF111056230AB0300
+- expected_values:
+    SIERRA2500_DPF_EGT_5: 113.5
+  response: 142AF111056230AB05FF
+- expected_values:
+    SIERRA2500_DPF_EGT_5: 652.1
+  response: 142AF111056230AB1B09

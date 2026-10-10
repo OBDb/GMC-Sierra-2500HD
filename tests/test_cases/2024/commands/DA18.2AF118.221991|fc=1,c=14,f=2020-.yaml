@@ -1,0 +1,11 @@
+command_id: DA18.2AF118.221991|fc=1,c=14,f=2020-
+test_cases:
+- expected_values:
+    SIERRA2500_TQ_CONV_CLU_SLIP_SPD_DA18: 0
+  response: 142AF118056219910000
+- expected_values:
+    SIERRA2500_TQ_CONV_CLU_SLIP_SPD_DA18: 31.875
+  response: 142AF1180562199100FF
+- expected_values:
+    SIERRA2500_TQ_CONV_CLU_SLIP_SPD_DA18: -32
+  response: 142AF11805621991FF00

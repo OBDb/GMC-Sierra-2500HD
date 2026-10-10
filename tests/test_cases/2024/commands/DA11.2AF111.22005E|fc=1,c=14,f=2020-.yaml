@@ -1,0 +1,11 @@
+command_id: DA11.2AF111.22005E|fc=1,c=14,f=2020-
+test_cases:
+- expected_values:
+    SIERRA2500_FUEL_CONS_RATE: 0
+  response: 142AF1110562005E0000
+- expected_values:
+    SIERRA2500_FUEL_CONS_RATE: 12.75
+  response: 142AF1110562005E00FF
+- expected_values:
+    SIERRA2500_FUEL_CONS_RATE: 54.75
+  response: 142AF1110562005E0447

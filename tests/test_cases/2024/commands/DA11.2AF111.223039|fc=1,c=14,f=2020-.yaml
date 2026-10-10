@@ -1,0 +1,11 @@
+command_id: DA11.2AF111.223039|fc=1,c=14,f=2020-
+test_cases:
+- expected_values:
+    SIERRA2500_DPF_DIST_SINCE_LAST_REGEN: 0
+  response: 142AF111056230390000
+- expected_values:
+    SIERRA2500_DPF_DIST_SINCE_LAST_REGEN: 255
+  response: 142AF1110562303900FF
+- expected_values:
+    SIERRA2500_DPF_DIST_SINCE_LAST_REGEN: 1280
+  response: 142AF111056230390500

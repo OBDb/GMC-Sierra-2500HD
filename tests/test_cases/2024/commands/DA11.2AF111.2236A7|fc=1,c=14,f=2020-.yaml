@@ -1,0 +1,5 @@
+command_id: DA11.2AF111.2236A7|fc=1,c=14,f=2020-
+test_cases:
+- expected_values:
+    SIERRA2500_AIR_FLT_LIFE: 90
+  response: 142AF111056236A75A10

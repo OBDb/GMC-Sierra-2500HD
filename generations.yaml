@@ -1,0 +1,24 @@
+references:
+  - "https://en.wikipedia.org/wiki/GMC_Sierra"
+
+generations:
+  - name: "First Generation (GMT800)"
+    start_year: 2001
+    end_year: 2007
+    description: "The first heavy-duty Sierra 2500HD, offered with the 6.0-liter Vortec V8, the 8.1-liter Vortec V8 and the Duramax diesel."
+  - name: "Second Generation (GMT900)"
+    start_year: 2007
+    end_year: 2014
+    description: "Redesigned heavy-duty Sierra, with the 6.0-liter V8 and the Duramax LMM and later LML diesels."
+  - name: "Third Generation (K2XX)"
+    start_year: 2015
+    end_year: 2019
+    description: "Heavy-duty trucks on the K2XX platform, with the 6.0-liter V8 and the Duramax LML and L5P diesels."
+  - name: "Fourth Generation (T1XX)"
+    start_year: 2020
+    end_year: 2023
+    description: "Heavy-duty trucks on the T1XX platform, with the 6.6-liter L8T gas V8 and the Duramax L5P diesel."
+  - name: "Fourth Generation (T1XX) Refresh"
+    start_year: 2024
+    end_year: null
+    description: "The refreshed heavy-duty Sierra, with an updated interior and an uprated Duramax L5P."
